@@ -10,7 +10,7 @@ The program is used with command line arguments:
 ```
 argv 1     image file name or path
 argv 2     output file name, default same as image file name
-argv 3     resize image, default = 200x200
+argv 3     resize image x,y, default = 200x200
 
 example: 'image1.png textimage.txt 100x100'
 
